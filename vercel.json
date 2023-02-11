@@ -2,6 +2,7 @@
     "version": 2,
     "env": {
     "SLACK_INCOMING_WEBHOOK": "@slack-incoming-webhook",
+    "DISCORD_INCOMING_WEBHOOK": "@discord-incoming-webhook",
     "IMGBB_API_KEY": "@imgbb-api-key"
     },
     "builds": [
